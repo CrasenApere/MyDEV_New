@@ -2175,9 +2175,6 @@ pause
 === FILE PATH: C:\Users\Giahu\Downloads\DEV\COMPILER\Linux\pkg.7z ===
 
 
-=== FILE PATH: C:\Users\Giahu\Downloads\DEV\COMPILER\Linux\pwd.txt ===
-
-
 === FILE PATH: C:\Users\Giahu\Downloads\DEV\COMPILER\NodeJS\master.7z ===
 
 
